@@ -11,9 +11,6 @@
     <string name="login_failed">"Login failed"</string>
     <string name="action_log_in">Log in with Microsoft</string>
     <string name="login_success">Login success</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="login_msg">You are loged in</string>
-
+    <string name="title_activity_login">Log in</string>
+    <string name="logged_in_msg">You are logged in</string>
 </resources>
