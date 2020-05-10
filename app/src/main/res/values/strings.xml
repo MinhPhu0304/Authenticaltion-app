@@ -13,4 +13,5 @@
     <string name="login_success">Login success</string>
     <string name="title_activity_login">Log in</string>
     <string name="logged_in_msg">You are logged in</string>
+    <string name="sign_in">Sign in or Log in</string>
 </resources>
